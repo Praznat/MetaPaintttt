@@ -1,0 +1,15 @@
+
+	X. fix problem with exception thrown when color genes moved to max
+2. deleting metaobjects
+3. selecting shapes to add to structure from menu rather than space
+4. name shape from left editor
+	X. circle (not ellipse) with diameter defined by two points
+	X. middle point in quadratic curves should be run through
+7. should not be allowed to put I/O special characters (:) in name of metaobject
+8. number box above sliders
+9. need way of adding/deleting genes (toggle variability)
+10.need way to cancel link (click on self but then but then it should say "cancel" rather than "select")
+11."controller" genes (1 bit, 2 bits, 3 bits, 4 bits)
+12.+/- shapes in gui
+13.ordering
+14.metastructure set paint to area or border
